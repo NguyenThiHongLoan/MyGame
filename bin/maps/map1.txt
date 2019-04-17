@@ -1,0 +1,7 @@
+parallelogram: 521 201 600 280 160 0
+square: 355 370 120 135
+triagle: 840 360 115 135
+triagle: 355 370 240 225
+triagle: 760 280 113 225
+triagle: 760 280 160 90
+triagle: 840 360 115 135

@@ -1,0 +1,4 @@
+triagle:
+triagle:
+square:
+parallelogram:
